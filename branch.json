@@ -1,0 +1,226 @@
+[
+  (
+    1,
+    "KH0011100",
+    "Head Office Branch (Bak Touk)",
+    "1",
+    "សាខាការិយាល័យកណ្ដាល (បាក់ទូក)",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    2,
+    "KH0010100",
+    "Kramoun Sar Branch",
+    "1",
+    "សាខាក្រមួនសរ",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    3,
+    "KH0010400",
+    "Olympic Market Branch",
+    "1",
+    "សាខាអូឡាំពិច",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    4,
+    "KH0011400",
+    "Orkide-2004 Branch",
+    "1",
+    "សាខាអ័រគីដេ-២០០៤",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    5,
+    "KH0010500",
+    "Phnom Penh Port Branch",
+    "1",
+    "សាខាកំពង់ផែភ្នំពេញ",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    6,
+    "KH0010900",
+    "Phsar Thom Thmey Branch",
+    "1",
+    "សាខាផ្សារធំថ្មី",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    7,
+    "KH0010200",
+    "Samdech Pan Branch",
+    "1",
+    "សាខាសម្ដេចប៉ាន",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    8,
+    "KH0011500",
+    "Takhmao Branch",
+    "1",
+    "សាខាតាខ្មៅ",
+    "Kandal",
+    "កណ្តាល",
+    ""
+  ),
+  (
+    9,
+    "KH0010800",
+    "Battambang Provincial Branch",
+    "1",
+    "សាខាខេត្តបាត់ដំបង",
+    "Battambang",
+    "បាត់ដំបង",
+    ""
+  ),
+  (
+    10,
+    "KH0010700",
+    "Tuol Kouk Branch",
+    "1",
+    "សាខាទួលគោក",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    11,
+    "KH0011000",
+    "Kampong Cham Provincial Branch",
+    "1",
+    "សាខាខេត្តកំពង់ចាម",
+    "Kampong Cham",
+    "កំពង់ចាម",
+    ""
+  ),
+  (
+    12,
+    "KH0011200",
+    "Port Of Sihanoukville Branch",
+    "1",
+    "សាខាកំពង់ផែក្រុងព្រះសីហនុ",
+    "Sihanoukville",
+    "កំពង់សោម",
+    ""
+  ),
+  (
+    13,
+    "KH0010600",
+    "Siem Reap Branch",
+    "1",
+    "សាខាសៀមរាប",
+    "Siem Riep",
+    "សៀម",
+    ""
+  ),
+  (
+    14,
+    "KH0010300",
+    "Sihanoukville Branch",
+    "1",
+    "សាខាខេត្តព្រះសីហនុ",
+    "Sihanoukville",
+    "ព្រះសីហនុ",
+    ""
+  ),
+  (
+    15,
+    "KH0011300",
+    "Heng Ly Market Branch",
+    "1",
+    "សាខាផ្សារហេងលី",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    38,
+    "KH0010100-1",
+    "Head Office",
+    "1",
+    "ការិយាល័យកណ្តាល",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    "",
+    "created_by": null,
+    "created_at": null,
+    "updated_by": "1",
+    "updated_at": "2021-03-03"
+  ),
+  (
+    39,
+    "KH0010400-1",
+    "Mao Tse Toung Branch",
+    "1",
+    "សាខាម៉ៅសេទុង",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    40,
+    "KH0011600",
+    "Royal University Of Phnom Penh",
+    "1",
+    "សាខាសាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    41,
+    "KH0011700",
+    "CHBAR AMPOV BRANCH",
+    "1",
+    "សាខាច្បារអំពៅ",
+    "Phnom Penh",
+    "ភ្នំពេញ",
+    ""
+  ),
+  (
+    42,
+    "KH0011800",
+    "Sen Sok Branch",
+    "1",
+    "សាខាសែនសុខ",
+    null,
+    null,
+    ""
+  ),
+  (
+    43,
+    "KH0011900",
+    "Chroy Changvar Branch",
+    "1",
+    "សាខាជ្រោយចង្វារ",
+    null,
+    null,
+    ""
+  ),
+  (
+    44,
+    "KH00120000",
+    "Aeon Mall Meanchey Branch",
+    "1",
+    "សាខាផ្សារអ៊ីអនមានជ័យ",
+    null,
+    null,
+    ""
+  )
+]
